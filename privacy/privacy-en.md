@@ -7,4 +7,4 @@ Eml2csv takes your privacy very seriously. All mail data you import will only be
 - eml2csv is completely a local stand-alone application, so it does not collect any of your personal information and does not access any other information of your device.
 
 
-We may update our privacy policy at any time. If there are major changes to our privacy policy, we will update our privacy policy on this page.
+We may update our privacy policy at any time. If there are major changes to our privacy policy, we will update our privacy policy on this page(https://github.com/raypo/eml2csv/blob/master/privacy/privacy-en.md).
